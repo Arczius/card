@@ -37,6 +37,12 @@
             colour: "#D51007",
             link: "https://www.last.fm/user/JarBottle",
         },
+        {
+            icon: "clarity:cd-dvd-solid",
+            size: "28",
+            colour: "#000",
+            link: "https://www.discogs.com/user/jarbottle/collection",
+        },
     ]
 </script>
 
