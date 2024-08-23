@@ -3,8 +3,7 @@
 @tailwind utilities;
 
 body{
-    background-color: #ECECEC;
-    background-image: url("/background.gif");
+    background: url("/background.gif");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
